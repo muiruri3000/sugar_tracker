@@ -1,0 +1,28 @@
+ Logout functionality
+
+📝 User registration (sign-up) form
+
+👤 User profile page
+
+⚙️ Password reset/change
+
+🛠️ Customizing the admin dashboard
+
+💅 Bootstrap or Tailwind styling
+
+A navigation bar
+
+Flash messages (e.g., "Login successful" or "Logged out")
+
+A custom base template for layout reuse
+
+
+📝 User registration (sign-up page)
+
+💬 Flash messages (e.g. “Logged in successfully”)
+
+🎨 Layout with base template + Bootstrap or Tailwind
+
+🔐 Change password / Reset password functionality
+
+🛠️ User profile editing page
