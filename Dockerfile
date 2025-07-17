@@ -15,6 +15,7 @@ RUN pip install --upgrade pip && pip install -r requirements.txt
 
 # Copy project files
 COPY . /app/
+RUN python manage.py migrate
 
 # Collect static files (optional, useful in prod)
 # RUN python manage.py collectstatic --noinput
